@@ -19,7 +19,6 @@ This is a solution to the user avatar challenge from the Design Course.
 ### Screenshot
 
 ![](./screenshot01.png)
-![](./screenshot02.png)
 
 ### Links
 
